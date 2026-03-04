@@ -1,0 +1,11 @@
+Model Information:
+* title:	robotyczny biało złoty spiderman
+* source:	https://sketchfab.com/3d-models/robotyczny-biao-zoty-spiderman-2181c78daa0040caafe3e9a9a81a81e1
+* author:	Zizian1987 (https://sketchfab.com/493caf85284a49b4a090c9c6eb1935)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "robotyczny biało złoty spiderman" (https://sketchfab.com/3d-models/robotyczny-biao-zoty-spiderman-2181c78daa0040caafe3e9a9a81a81e1) by Zizian1987 (https://sketchfab.com/493caf85284a49b4a090c9c6eb1935) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
